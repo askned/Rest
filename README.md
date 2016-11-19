@@ -1,4 +1,5 @@
 # Rest
+http://lmt.loftblog.tmweb.ru/auth?login=111@111&password=111111%3E&register=1
 
 auth?login=<login>&password=<password>&register=1 {"status":"success","id": id_созданного_юзера}
 в случае ошибки {"status":"Текст_ошибки"}, например:
